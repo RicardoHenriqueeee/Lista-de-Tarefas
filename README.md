@@ -37,4 +37,4 @@ Uma aplicação simples de lista de tarefas desenvolvida em HTML, CSS e JavaScri
 ## Instalação
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/lista-de-tarefas.git
+   git clone https://github.com/RicardoHenriqueeee/Lista-de-Tarefas.git
