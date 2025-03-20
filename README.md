@@ -1,3 +1,4 @@
+
 # Lista de Tarefas
 
 Uma aplicação simples de lista de tarefas desenvolvida em HTML, CSS e JavaScript. Esta aplicação permite adicionar, marcar como concluída e deletar tarefas de forma intuitiva. Foi elaborada enquanto estava reforçando meu conhecimento sobre JavaScript assistindo algumas aulas no youtube.
@@ -38,3 +39,5 @@ Uma aplicação simples de lista de tarefas desenvolvida em HTML, CSS e JavaScri
 
 1. Clone o repositório:
    git clone https://github.com/RicardoHenriqueeee/Lista-de-Tarefas.git
+2. Instalar a biblioteca de icons do bootstrap no site oficial deles:
+   https://getbootstrap.com/
